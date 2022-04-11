@@ -25,3 +25,6 @@
 - *Code Example*을 통해 그 패턴에 대한 이해를 더 쉽게 할 수 있도록 도와줍니다.
 
 몇몇 패턴들은 **applicability, implementation step, 다른 패턴과의 연관성** 등의 유용한 detail들이 추가로 설명되어 있으니 확인하면 도움이 될 것입니다.
+
+## History of patterns
+생략! (https://refactoring.guru/design-patterns/history 참고)
